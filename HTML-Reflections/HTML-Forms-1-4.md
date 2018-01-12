@@ -1,5 +1,6 @@
 ### What is a good use of the <form> tag, what are its available methods?
-The form tag creates an HTML form for user input, tells the browser where the form starts and ends. This tag specifies where to send the for data when it is submitted: absolute or relative URL.
+
+* The form tag creates an HTML form for user input, tells the browser where the form starts and ends. This tag specifies where to send the for data when it is submitted: absolute or relative URL.
 
 * post-anything such as storing or updating data, ordering product, sending an email, etc...
 
@@ -72,6 +73,7 @@ The form tag creates an HTML form for user input, tells the browser where the fo
       </nav>
     </header>
     <aside>
+    <!--Sidebar content will go here-->
     </aside>
     <section>
       <table>
