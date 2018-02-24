@@ -1,42 +1,42 @@
 # Lessons-Learned
 updated 1/9/2018
-##System Initialization for Dev
+## System Initialization for Dev
 [x]Installfest Railsbridge (Enviroment Setup)
-  *Ruby
-  *Rails
-  *Node.js
-  *Git for Windows
-  *Heroku
-  *Atom
-  *Ruby gems
-##CSS
+  * Ruby
+  * Rails
+  * Node.js
+  * Git for Windows
+  * Heroku
+  * Atom
+  * Ruby gems
+## CSS
 
-##Javascript
+## Javascript
 
-##Command Line
-[x]Basic Commands
+## Command Line
+[x] Basic Commands
 
-##Git & GitHub
-[x]Basic Git commands 
-[x]Push/Pull 
-[x]Simple Markdown for GitHub :octocat:
-  *Headers
-  *Lists 
-  *Images
-  *Emphasis
-  *Links
-  *Blockquotes
-  *Backslash Escapes
-  *Username mentions
-  *Tables
-  *Task Lists
-  *Fence Code Blocks
-  *Issue Referencing
-  *Emoji :camel::rocket:
+## Git & GitHub
+[x] Basic Git commands 
+[x] Push/Pull 
+[x] Simple Markdown for GitHub :octocat:
+  * Headers
+  * Lists 
+  * Images
+  * Emphasis
+  * Links
+  * Blockquotes
+  * Backslash Escapes
+  * Username mentions
+  * Tables
+  * Task Lists
+  * Fence Code Blocks
+  * Issue Referencing
+  * Emoji :camel::rocket:
 
-##Ruby
+## Ruby
 
-##Ruby on Rails
+## Ruby on Rails
 
-##Deployment
+## Deployment
 
